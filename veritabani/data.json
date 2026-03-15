@@ -1,0 +1,502 @@
+[
+    {
+        "plaka": "34 ABC 108",
+        "marka": "Audi",
+        "model": "A3",
+        "ucret": 2300,
+        "durum": "Kirada",
+        "kiralayan": "Betül Karadağ",
+        "baslangic_tarihi": "24-12-2025",
+        "bitis_tarihi": "31-12-2025"
+    },
+    {
+        "plaka": "34 XYZ 201",
+        "marka": "Audi",
+        "model": "A4",
+        "ucret": 4500,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "54 XYZ 218",
+        "marka": "Audi",
+        "model": "A5",
+        "ucret": 5200,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "35 GHI 303",
+        "marka": "Audi",
+        "model": "Q2",
+        "ucret": 3400,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "16 XYZ 210",
+        "marka": "Audi",
+        "model": "Q3",
+        "ucret": 3900,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 ABC 107",
+        "marka": "BMW",
+        "model": "320i",
+        "ucret": 2700,
+        "durum": "Kirada",
+        "kiralayan": "Kemal Aydın",
+        "baslangic_tarihi": "20-12-2025",
+        "bitis_tarihi": "24-12-2025"
+    },
+    {
+        "plaka": "34 ABC 690",
+        "marka": "BMW",
+        "model": "320i",
+        "ucret": 800.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "81 A 2026",
+        "marka": "BMW",
+        "model": "320i",
+        "ucret": 1000.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "06 XYZ 202",
+        "marka": "BMW",
+        "model": "520i",
+        "ucret": 5200,
+        "durum": "Kirada",
+        "kiralayan": "Ayşe Korkmaz",
+        "baslangic_tarihi": "18-12-2025",
+        "bitis_tarihi": "22-12-2025"
+    },
+    {
+        "plaka": "12 ER 657",
+        "marka": "BMW",
+        "model": "Q3",
+        "ucret": 2000.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "35 GHI 302",
+        "marka": "BMW",
+        "model": "X1",
+        "ucret": 3200,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "07 XYZ 217",
+        "marka": "BMW",
+        "model": "X2",
+        "ucret": 3600,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "35 XYZ 209",
+        "marka": "BMW",
+        "model": "X3",
+        "ucret": 4200,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "07 KLM 435",
+        "marka": "Chery",
+        "model": "Omoda 5",
+        "ucret": 5500.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 XYZ 213",
+        "marka": "Chery",
+        "model": "Omoda 5",
+        "ucret": 1600,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 ABC 109",
+        "marka": "Chery",
+        "model": "Tiggo 7",
+        "ucret": 1400,
+        "durum": "Kirada",
+        "kiralayan": "Volkan Öz",
+        "baslangic_tarihi": "19-12-2025",
+        "bitis_tarihi": "23-12-2025"
+    },
+    {
+        "plaka": "34 ABC 106",
+        "marka": "Citroen",
+        "model": "C3",
+        "ucret": 880,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "35 GHI 301",
+        "marka": "Citroen",
+        "model": "C4",
+        "ucret": 1250,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "06 XYZ 214",
+        "marka": "Citroen",
+        "model": "C4x",
+        "ucret": 1650,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 XYZ 207",
+        "marka": "Citroen",
+        "model": "C5 Aircross",
+        "ucret": 2800,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 ABC 105",
+        "marka": "Dacia",
+        "model": "Duster",
+        "ucret": 1100,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "54 XYZ 206",
+        "marka": "Dacia",
+        "model": "Jogger",
+        "ucret": 1350,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "06 XYZ 220",
+        "marka": "Dacia",
+        "model": "Logan",
+        "ucret": 1000.0,
+        "durum": "Kirada",
+        "kiralayan": "Ezgi Kurtuluş",
+        "baslangic_tarihi": "20-12-2025",
+        "bitis_tarihi": "25-12-2025"
+    },
+    {
+        "plaka": "16 JKL 411",
+        "marka": "Dacia",
+        "model": "Sandero",
+        "ucret": 760,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "07 TG 333",
+        "marka": "Daci̇a",
+        "model": "Duster",
+        "ucret": 3000.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "16 XYZ 216",
+        "marka": "Fiat",
+        "model": "500",
+        "ucret": 1100,
+        "durum": "Kirada",
+        "kiralayan": "Elif Anz",
+        "baslangic_tarihi": "29-12-2025",
+        "bitis_tarihi": "30-12-2025"
+    },
+    {
+        "plaka": "06 DEF 202",
+        "marka": "Fiat",
+        "model": "Panda",
+        "ucret": 700,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "06 XYZ 208",
+        "marka": "Fiat",
+        "model": "Tipo",
+        "ucret": 1000.0,
+        "durum": "Kirada",
+        "kiralayan": "Elif",
+        "baslangic_tarihi": "30-12-2025",
+        "bitis_tarihi": "31-12-2025"
+    },
+    {
+        "plaka": "26 R 2345",
+        "marka": "Fiat",
+        "model": "Tipo",
+        "ucret": 5500.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 ABC 123",
+        "marka": "Ford",
+        "model": "Fiesta",
+        "ucret": 1200.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 ACD 455",
+        "marka": "Ford",
+        "model": "Fiesta",
+        "ucret": 800.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "41 BMW 141",
+        "marka": "Ford",
+        "model": "Fiesta",
+        "ucret": 900.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "45 ABC 456",
+        "marka": "Ford",
+        "model": "Fiesta",
+        "ucret": 100.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "54 GIG 464",
+        "marka": "Ford",
+        "model": "Fiesta",
+        "ucret": 1500,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "07 XYZ 211",
+        "marka": "Ford",
+        "model": "Focus",
+        "ucret": 1800.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 GIG 084",
+        "marka": "Ford",
+        "model": "Focus",
+        "ucret": 1800,
+        "durum": "Kirada",
+        "kiralayan": "Rabiya Ünlü",
+        "baslangic_tarihi": "20-12-2025",
+        "bitis_tarihi": "27-12-2025"
+    },
+    {
+        "plaka": "01 AD 1854",
+        "marka": "Honda",
+        "model": "Accord",
+        "ucret": 2000.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "07 GS 367",
+        "marka": "Honda",
+        "model": "Accord",
+        "ucret": 3000.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "07 XYZ 205",
+        "marka": "Honda",
+        "model": "Accord",
+        "ucret": 3100,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "06 DEF 204",
+        "marka": "Honda",
+        "model": "City",
+        "ucret": 1000,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "34 ABC 104",
+        "marka": "Honda",
+        "model": "Civic",
+        "ucret": 1200,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "06 DEF 203",
+        "marka": "Hyundai",
+        "model": "Bayon",
+        "ucret": 980,
+        "durum": "Kirada",
+        "kiralayan": "zehra yıldız",
+        "baslangic_tarihi": "22-12-2025",
+        "bitis_tarihi": "25-12-2025"
+    },
+    {
+        "plaka": "34 ABC 103",
+        "marka": "Hyundai",
+        "model": "I20",
+        "ucret": 820,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "54 XYZ 212",
+        "marka": "Hyundai",
+        "model": "Kona",
+        "ucret": 1700.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "16 XYZ 204",
+        "marka": "Hyundai",
+        "model": "Tucson",
+        "ucret": 2500,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "35 XYZ 215",
+        "marka": "Renault",
+        "model": "Captur",
+        "ucret": 1500,
+        "durum": "Kirada",
+        "kiralayan": "ilayda kuru",
+        "baslangic_tarihi": "22-12-2025",
+        "bitis_tarihi": "27-12-2025"
+    },
+    {
+        "plaka": "34 ABC 101",
+        "marka": "Renault",
+        "model": "Clio",
+        "ucret": 850,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "45 NS 7676",
+        "marka": "Renault",
+        "model": "Clio",
+        "ucret": 6000.0,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    },
+    {
+        "plaka": "06 DEF 201",
+        "marka": "Renault",
+        "model": "Megane",
+        "ucret": 1050,
+        "durum": "Kirada",
+        "kiralayan": "deniz ince",
+        "baslangic_tarihi": "22-12-2025",
+        "bitis_tarihi": "31-12-2025"
+    },
+    {
+        "plaka": "34 XYZ 219",
+        "marka": "Renault",
+        "model": "Symbol",
+        "ucret": 800,
+        "durum": "Müsait",
+        "kiralayan": "",
+        "baslangic_tarihi": "",
+        "bitis_tarihi": ""
+    }
+]
